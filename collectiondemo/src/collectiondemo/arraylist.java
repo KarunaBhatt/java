@@ -6,10 +6,6 @@ public class arraylist {
 		return "[]";
 	}
 	
-	
-	
-	
-	
 	public static void main(String[] args) {
 	
 		arraylist a=new arraylist();
